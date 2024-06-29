@@ -16,3 +16,6 @@ sudo chown canac nancy
 sudo chmod 754 nancy
 sudo chown root nancy
 sudo chown :root nancy
+
+sudo chmod o-r secret.txt 
+sudo chmod 000 secret.txt
